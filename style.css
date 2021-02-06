@@ -1,0 +1,58 @@
+.navbar-container {
+  background-color: #88c13e;
+  padding: 10px;
+}
+
+.card-container {
+  background-image: linear-gradient(white, #8ac33e);
+}
+
+.search-box {
+  border-radius: 10px;
+  width: 300px;
+}
+
+.search-icon {
+  position: absolute;
+  top: 20px;
+  right: 25px;
+}
+
+.custom-nav {
+  color: white;
+  text-align: center;
+}
+
+.custom-nav:hover {
+  background-color: #6d9a33;
+}
+
+.custom-card {
+  padding: 30px 20px;
+}
+
+.card-heading {
+  color: #84bb3c;
+}
+
+.site-name {
+  color: #84bb3c;
+}
+
+.intro-text {
+  width: 80%;
+}
+
+.intro-text img {
+  width: 80px;
+}
+
+.intro-p1 {
+  font-size: 20px;
+  color: #84bb3c;
+  font-weight: 600;
+}
+
+.login-signup {
+  color: grey;
+}
